@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-FFD43B.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
 </p>
 <h1 align="center">programming languages</h1>
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 <br />
 <br>
