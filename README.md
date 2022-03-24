@@ -2,7 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://imgur.com/gallery/5AWVRWI">
+     src="https://imgur.com/7HUbNRN">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
