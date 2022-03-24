@@ -10,15 +10,14 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  
+  Bachelor's in Computer Engineering
 - 🔭 I’m currently a Flutter Intern
 - 🌱 I’m currently learning Blockchain and Web3
-- 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
-- 💬 Ask me about anything Python and Flutter!  
-- 📫 How to reach me: On any of my socials
+- 👯 I’m looking to collaborate on projects based on web technologies
+- 💬 Ask me about joke 
+- 📫 How to reach me: kamlesh_vetal@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a professional Bharatanatyam Dancer
-- ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
+- ⚡ Fun fact:
 </h3>
 <br />
 <br>
