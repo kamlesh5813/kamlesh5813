@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
 
-</ br>
+
 <h1 align="center">Tech Stack 👩‍💻</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
