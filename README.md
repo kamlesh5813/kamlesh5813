@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a professional Bharatanatyam Dancer
 - ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
+<br />
 
 
 <h1 align="center">Tech Stack 👩‍💻</h1>
