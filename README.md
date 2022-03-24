@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a Flutter Intern
+- 🔭 I’m currently a Great
 - 🌱 I’m currently learning Blockchain and Web3
-- 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
-- 💬 Ask me about anything Python and Flutter!  
-- 📫 How to reach me: On any of my socials
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a professional 
+- 👯 I’m looking to collaborate on projects based on web
+- 💬 Ask me about joke  
+- 📫 How to reach me: Reach bottom
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a professional don't know
 - ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
 <br />
