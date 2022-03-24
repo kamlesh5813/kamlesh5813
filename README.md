@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  Bachelor's in Computer Engineering
 - 🔭 I’m currently a Flutter Intern
 - 🌱 I’m currently learning Blockchain and Web3
 - 👯 I’m looking to collaborate on projects based on web technologies
