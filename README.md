@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-- 🔭 I’m currently a Flutter Intern
-- 🌱 I’m currently learning Blockchain and Web3
-- 👯 I’m looking to collaborate on projects based on web technologies
-- 💬 Ask me about joke 
-- 📫 How to reach me: kamlesh_vetal@yahoo.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- 🔭 I’m currently a Flutter Intern</ br>
+- 🌱 I’m currently learning Blockchain and Web3</ br>
+- 👯 I’m looking to collaborate on projects based on web technologies</ br>
+- 💬 Ask me about joke </ br>
+- 📫 How to reach me: kamlesh_vetal@yahoo.com</ br>
+- 😄 Pronouns: He/Him</ br>
+- ⚡ Fun fact:</ br>
 </h3>
 <br />
 <br>
