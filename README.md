@@ -2,12 +2,12 @@
 
 <h1> 
 🔭 I’m currently a Flutter Intern</br>
-🌱 I’m currently learning Blockchain and Web3 </ br>
-👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django! </br>
-💬 Ask me about anything Python and Flutter! </br>
-📫 How to reach me: On any of my socials </ br>
-😄 Pronouns: He/Him</ br>
-⚡ Fun fact: I am a professional Bharatanatyam Dancer </h1> </ br>
+🌱 I’m currently learning Blockchain and Web3</br>
+👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!</br>
+💬 Ask me about anything Python and Flutter!</br>
+📫 How to reach me: On any of my socials</br>
+😄 Pronouns: He/Him</br>
+⚡ Fun fact: I am a professional Bharatanatyam Dancer </h1></br>
 
 
 - ⚡ Fun fact: ..
