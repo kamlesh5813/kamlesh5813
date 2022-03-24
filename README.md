@@ -1,25 +1,25 @@
-<h1 align="center">Hi there! I'm Kamlesh Vetal 👋 </h1>
+<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="images/grinding.jpg">
+     src="https://i.imgur.com/iigzIrT.png">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
 Here are some ideas to get you started:
 -->
-<br>
+
 <h3>
-- 🔭 I’m currently a Flutter Intern</ br>
-- 🌱 I’m currently learning Blockchain and Web3</ br>
-- 👯 I’m looking to collaborate on projects based on web technologies</ br>
-- 💬 Ask me about joke </ br>
-- 📫 How to reach me: kamlesh_vetal@yahoo.com</ br>
-- 😄 Pronouns: He/Him</ br>
-- ⚡ Fun fact:</ br>
+  
+- 🔭 I’m currently a Flutter Intern
+- 🌱 I’m currently learning Blockchain and Web3
+- 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
+- 💬 Ask me about anything Python and Flutter!  
+- 📫 How to reach me: On any of my socials
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am a professional Bharatanatyam Dancer
+- ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
-<br />
-<br>
 
 <h1 align="center">Tech Stack 👩‍💻</h1>
 <p align="center">
