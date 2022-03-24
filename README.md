@@ -2,7 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="desktop/k.jpg">
+     src="images/grinding.jpg">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
