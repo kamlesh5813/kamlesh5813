@@ -50,18 +50,21 @@ Here are some ideas to get you started:
 <br>
 <h1 align="center">Front-End Technologies</h1>
 <p align="center">
- <img src=" " /> &nbsp;&nbsp;&nbsp;
- <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
  <img src=" " />&nbsp;&nbsp;&nbsp;
  <img src=" " />&nbsp;&nbsp;&nbsp;
 </p>
 <br />
 
 <br>
-<h1 align="center">Back-End Technologies</h1>
+<h1 align="center">Frameworks, Platforms and Libraries</h1>
 <p align="center">
- <img src=" " /> &nbsp;&nbsp;&nbsp;
- <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB " /> &nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white " />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white " />&nbsp;&nbsp;&nbsp;
+ <img src=" https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
  <img src=" " />&nbsp;&nbsp;&nbsp;
  <img src=" " />&nbsp;&nbsp;&nbsp;
 </p>
