@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm Kamlesh`
 
-
+🔭 I’m currently a Flutter Intern
+🌱 I’m currently learning Blockchain and Web3
+👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
+💬 Ask me about anything Python and Flutter!
+📫 How to reach me: On any of my socials
+😄 Pronouns: She/her
+⚡ Fun fact: I am a professional Bharatanatyam Dancer
 
 
 - ⚡ Fun fact: ..
