@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flask-FFFFFF.svg?&style=for-the-badge&logo=flask&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-FFD43B.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
 </p>
+<br />
+
+<br>
 <h1 align="center">programming languages</h1>
 <p align="center">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> &nbsp;&nbsp;&nbsp;
@@ -43,6 +46,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
 </p>
 <br />
+
 <br>
 
 
