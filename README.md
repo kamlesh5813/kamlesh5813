@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
+<h1 align="center">Hi there! I'm Kamlesh Vetal 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything Python and Flutter!  
 - 📫 How to reach me: On any of my socials
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a professional Bharatanatyam Dancer
+- ⚡ Fun fact: I am a professional 
 - ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
 <br />
