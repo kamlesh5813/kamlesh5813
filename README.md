@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
+<h1 align="center">Hi there! I'm Kamlesh Vetal 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
 - 💬 Ask me about anything Python and Flutter!  
 - 📫 How to reach me: On any of my socials
-- 😄 Pronouns: She/her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a professional Bharatanatyam Dancer
 - ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
 </h3>
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 </p>  
      
 
-[linkedin]: https://www.linkedin.com/in/rohini-rao-39ab291a4/
-[twitter]: https://twitter.com/rooohini_
-[instagram]: https://www.instagram.com/shades_n_strokes__/
-[gmail]: rohinirao2112@gmail.com
+[linkedin]: https://www.linkedin.com/in/kamlesh-vetal-8697901b2/
+[twitter]: 
+[instagram]: 
+[gmail]: kamlesh_vetal@yahoo.com
 
 <br /> 
