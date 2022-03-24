@@ -48,6 +48,36 @@ Here are some ideas to get you started:
 <br />
 
 <br>
+<h1 align="center">Front-End Technologies</h1>
+<p align="center">
+ <img src=" " /> &nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+</p>
+<br />
+
+<br>
+<h1 align="center">Back-End Technologies</h1>
+<p align="center">
+ <img src=" " /> &nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+</p>
+<br />
+
+<br>
+<h1 align="center">Databases</h1>
+<p align="center">
+ <img src=" " /> &nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+ <img src=" " />&nbsp;&nbsp;&nbsp;
+</p>
+<br />
+
+<br>
 
 
 <h1 align="center">Get in touch 🤝
