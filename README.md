@@ -2,7 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://i.imgur.com/iigzIrT.png">
+     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F10%2F05%2Fmovies%2Fthe-social-network-facebook.html&psig=AOvVaw1VTDkt2yB8lAmIK1_56ACk&ust=1648216702072000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDWmezz3vYCFQAAAAAdAAAAABAD">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
