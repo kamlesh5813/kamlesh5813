@@ -1,4 +1,4 @@
-                                                                    <h2>Hi there 👋 I'm Kamlesh`</h2>
+Hi there 👋 I'm Kamlesh`
 
 <h1> 
 🔭 I’m currently a Final Year BE Student</br>
