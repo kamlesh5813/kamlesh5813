@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Kamlesh Vetal 👋 </h1>
 
 <img class="fit-picture" align="right"
-     width="400" height="400"
+     width="400" height="240"
      src="images/grinding.jpg">
 <h1 align="center">About me! 🚀</h1>
 
@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a Final Year Student 
+- 🔭 I’m currently a Final Year Student at Sinhgad Institutes of Technical Education. 
 - 🌱 I’m currently learning Back-End, Databases, React.
 - 👯 I’m looking to collaborate on projects based on Web Developments.
 - 💬 Ask me about joke  
 - 📫 How to reach me: Reach bottom
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a professional don't know
-- 
+- ⚡ Fun fact: I am a professional movie lover.
+
+     
      
 </h3>
 <br />
