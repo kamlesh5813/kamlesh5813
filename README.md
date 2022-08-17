@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  
-- 🔭 I’m currently a Final Year Student at Sinhgad Institutes of Technical Education. 
+  :man_student:
+- 🔭 Student at Sinhgad Institutes of Technical Education. 
 - 🌱 I’m currently learning Back-End, Databases, React.
 - 👯 I’m looking to collaborate on projects based on Web Developments.
 - 💬 Ask me about joke  
