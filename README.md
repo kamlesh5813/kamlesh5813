@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  :man_student:
+- :man_student: Bachelor's in Computer Engineering.
 - 🔭 Student at Sinhgad Institutes of Technical Education. 
 - 🌱 I’m currently learning Back-End, Databases, React.
 - 👯 I’m looking to collaborate on projects based on Web Developments.
