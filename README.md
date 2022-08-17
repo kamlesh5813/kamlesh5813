@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-- :man_student: Bachelor's in Computer Engineering.
-- 🔭 Student at Sinhgad Institutes of Technical Education. 
-- 🌱 I’m currently learning Back-End, Databases, React.
-- 👯 I’m looking to collaborate on projects based on Web Developments.
-- 💬 Ask me about joke  
-- 📫 How to reach me: Reach bottom
-- ⚡ Fun fact: I am a professional movie lover.
+- :man_student: Bachelor's in Computer Engineering.<br />
+- 🔭 Student at Sinhgad Institutes of Technical Education.<br /> 
+- 🌱 I’m currently learning Back-End, Databases, React.<br />
+- 👯 I’m looking to collaborate on projects based on Web Developments.<br />
+- 💬 Ask me about joke<br />  
+- 📫 How to reach me: Reach bottom<br / >
+- ⚡ Fun fact: I am a professional movie lover.<br />
 
      
      
