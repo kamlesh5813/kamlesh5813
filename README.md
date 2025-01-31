@@ -8,8 +8,7 @@
 <h1 align="center">About Me! 🚀</h1>
 
 <h3>
-- :man_student: Bachelor's in Computer Engineering.<br />
-- 🔭 Student at Sinhgad Institutes of Technical Education.<br /> 
+- :man_student: Bachelor's in Computer Engineering.<br /> 
 - 🌱 I’m currently learning **AI/ML, Back-End Development, and React**.<br />
 - 👯 I’m looking to collaborate on projects based on **AI, Web Development, and Open Source**.<br />
 - 💬 Ask me about **AI, Python, or a joke**.<br />
